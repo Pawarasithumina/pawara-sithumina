@@ -38,7 +38,7 @@ Always excited to learn, build, and explore the world of data!
 ---
 
 ## 📊 GitHub Stats  
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Pawara-Sithumina&show_icons=true&theme=tokyonight" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawara-Sithumina&layout=compact&theme=tokyonight" height="165" /> </p>
+
 ---
 
 ## 🎯 Fun Fact  

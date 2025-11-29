@@ -1,5 +1,5 @@
 # Hi, I'm Pawara Sithumina 👋  
-### Data Science Undergraduate | Python | R | SQL | Web Scraping
+### Data Science Undergraduate | Python | R | SQL | Web Scraping | Tableau | Excel
 
 Always excited to learn, build, and explore the world of data!
 

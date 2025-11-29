@@ -29,7 +29,7 @@ Always excited to learn, build, and explore the world of data!
 ---
 
 ## 🛠️ Languages & Tools  
-<p> <img src="https://skillicons.dev/icons?i=python,r,sqlite,git,github,vscode,html,css" /> <img src="https://skillicons.dev/icons?i=excel,tableau" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,r,sqlite,git,github,vscode,html,css" /> <img src="https://skillicons.dev/icons?i=excel,tableau" /> </p>
 
 ---
 
